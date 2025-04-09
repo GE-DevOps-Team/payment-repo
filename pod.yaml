@@ -4,4 +4,3 @@ metadat: nginx
 spec:
  container:
   - image: nginx
-sidecar
