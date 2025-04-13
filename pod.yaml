@@ -4,3 +4,4 @@ metadat: nginx
 spec:
  container:
   - image: nginx
+replicas: 2
